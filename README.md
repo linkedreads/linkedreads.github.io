@@ -1,5 +1,5 @@
-## Linked-Reads Community Challenge
-### Promoting methods development for linked-read sequencing
+# Linked-Reads Community Challenge
+## Promoting methods development for linked-read sequencing
 
 ### Organizers:
 - [Melissa Gymrek](https://gymreklab.github.io/), UCSD
