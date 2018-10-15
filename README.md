@@ -1,6 +1,6 @@
 ## Linked-Reads Community Challenge
 
-Organizers:
+### Organizers:
 - [Melissa Gymrek](https://gymreklab.github.io/), UCSD
 - [Aaron Quinlan](http://quinlanlab.org/), University of Utah
 - [Valerie Schneider](https://www.linkedin.com/in/valerie-schneider-45aa82b4/), NCBI
