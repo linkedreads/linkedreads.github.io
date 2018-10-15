@@ -1,4 +1,4 @@
-# Linked-Reads Community Challenge
+# Linked-Reads Community Challenge Overview
 ## Promoting methods development for linked-read sequencing
 
 ### Organizers:
